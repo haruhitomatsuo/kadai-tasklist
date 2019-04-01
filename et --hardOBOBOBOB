@@ -1,0 +1,23 @@
+[33mcommit dd8439c49a2f27bf0120e98358ea0a99e41ce4f2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: haruhito.matsuo <moderation.and.harmony@gmail.com>
+Date:   Fri Mar 29 11:49:09 2019 +0000
+
+    DRY
+
+[33mcommit 0c2c20812106cfea009a49117cffbec1a34a4190[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: haruhito.matsuo <moderation.and.harmony@gmail.com>
+Date:   Thu Mar 28 22:07:34 2019 +0000
+
+    CLUD task
+
+[33mcommit 8b985b7e3f5ae2a477ab90fc170b282694e9d141[m
+Author: haruhito.matsuo <moderation.and.harmony@gmail.com>
+Date:   Thu Mar 28 18:54:17 2019 +0000
+
+    task model
+
+[33mcommit 6c8bf8c72a227630cf1f1c587406ee1840340fe9[m
+Author: haruhito.matsuo <moderation.and.harmony@gmail.com>
+Date:   Thu Mar 28 17:32:42 2019 +0000
+
+    init Rails Project
